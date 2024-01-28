@@ -23,7 +23,7 @@ body{
     height: 118px;
     border: 1px solid rgb(255, 191, 0);
 }
-/* Add this CSS to your existing styles or in a new style tag */
+
 .modal {
     display: none;
     position: fixed;
