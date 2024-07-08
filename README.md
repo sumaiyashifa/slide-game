@@ -1,4 +1,5 @@
 Pokémon Go Slide Puzzle Game
+
 This is a slide puzzle game featuring an image from Pokémon Go. The objective of the game is to arrange the pieces of the image in the correct order by sliding them into the empty space.
 
 
