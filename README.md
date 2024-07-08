@@ -5,6 +5,7 @@ This is a slide puzzle game featuring an image from Pokémon Go. The objective o
 
 
 Features
+
 -Image-based slide puzzle
 
 -Pokémon Go themed
@@ -15,6 +16,7 @@ Features
 
 
 How to Play
+
 1.The puzzle is initially shuffled.
 
 2.Click on a tile adjacent to the empty space to move it.
@@ -26,6 +28,7 @@ How to Play
 
 
 Project Structure
+
 index.html - The main HTML file
 
 style.css - The CSS file for styling
