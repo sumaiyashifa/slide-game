@@ -3,8 +3,8 @@ Pokémon Go Slide Puzzle Game
 This is a slide puzzle game featuring an image from Pokémon Go. The objective of the game is to arrange the pieces of the image in the correct order by sliding them into the empty space.
 
 
-Features
 
+Features
 -Image-based slide puzzle
 
 -Pokémon Go themed
@@ -13,8 +13,8 @@ Features
 
 
 
-How to Play
 
+How to Play
 1.The puzzle is initially shuffled.
 
 2.Click on a tile adjacent to the empty space to move it.
@@ -24,8 +24,8 @@ How to Play
 4.The number of turns taken will be displayed at the bottom.
 
 
-Project Structure
 
+Project Structure
 index.html - The main HTML file
 
 style.css - The CSS file for styling
